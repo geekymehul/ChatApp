@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d9d2d2"
+    tools:context="com.developinggeek.chatapp.ChatActivity">
+
+    <include
+        layout="@layout/app_bar_layout"
+        android:id="@+id/chat_toolbar"
+        > </include>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/messages_list"
+        android:layout_below="@+id/chat_toolbar"
+        android:layout_above="@+id/linearLayout">
+    </android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:background="#FFF"
+        android:id="@+id/linearLayout">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/add_icon"
+            android:id="@+id/chat_add"
+            android:layout_weight="1"
+            />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:hint="Enter message here"
+            android:id="@+id/chat_txt_msg"
+            />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/chat_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/send_icon"
+            tools:ignore="VectorDrawableCompat" />
+
+    </LinearLayout>
+
+</RelativeLayout>

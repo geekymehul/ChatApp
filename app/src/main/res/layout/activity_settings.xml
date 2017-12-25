@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.developinggeek.chatapp.SettingsActivity"
+    android:background="@color/colorPrimaryDark"
+    >
+
+   <de.hdodenhof.circleimageview.CircleImageView
+       android:layout_width="180dp"
+       android:layout_height="180dp"
+       android:src="@drawable/user_default"
+       android:layout_alignParentTop="true"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="40dp"
+       android:id="@+id/setting_user_img" />
+
+    <TextView
+        android:id="@+id/setting_txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#FFF"
+        android:layout_below="@+id/setting_user_img"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:text="Display Name" />
+
+    <TextView
+        android:id="@+id/setting_txt_status"
+        android:textSize="20sp"
+        android:textColor="#FFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/setting_txt_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Hey there I am using chat App" />
+
+    <Button
+        android:id="@+id/setting_btn_status"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="97dp"
+        android:backgroundTint="#FFF"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Update Status"
+        android:layout_below="@+id/setting_txt_status"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:backgroundTint="@color/colorAccent"
+        android:id="@+id/setting_btn_img"
+        android:textColor="#FFF"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:text="Update Image"
+        android:layout_below="@+id/setting_btn_status"
+       android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

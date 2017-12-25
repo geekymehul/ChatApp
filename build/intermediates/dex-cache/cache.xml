@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\6c2eaf6b95785be859433c17dad7fe9173bb4ddf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d753720af5a2c93bc1dab27886fbeb0e2db9c6c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\edeecd762d2f315da712bdda1d0c7b04e30982bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bd32b72098fecf44dcab3808a11e6b9fcb86b7b">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18ca1d596aa29e92bd453ffd89c85d2a42ad154d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_6779f5a8dbe97f3219a0c0d72eae53669fad1f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\2df6eca3a3cc8958851832a1c89712acae1b459b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_abde08e4e80e3ee2e16c51931b7a7f0afdf112e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\ed4b6ecba80d8fe3027dacdf6d3e2f077007d03e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_6450bfa5bbdcc5d718ad7b52640a15ce47cb46f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\2a5ed7f00b6230092aeb127d9667a010137f01a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_c01a55cd2681bca477dab77660df618761be7199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\d3d460656e97dfb4a6e057c4ae6089eced911f22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_17ba07b2139b5b8862f754f1e12e345544d310a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6df922b1b227180c32620d073a946845caa89087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_1a510127d57221308ccf58bc880a30f7fc09a500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\2c1ce8c7f9fa50fbe13e1b57eaac54f8722c39fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c92d65efa31cc014054cd529c0c201e8d40b9ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\28ca91bd2594b92286a4d2bc756139cd8d63e727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_2c5947cfe56073e8cc45e3a220d303f7535a3dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\f2f43c395803421a3f6b209c1284e5389fb4b61f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_f64f9d2eb2efb238b46784018e61e579604e1467.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\b61617ec42e63737de6bf8d73474e887679ff347\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b20706c58252595fbc8f4a3152aee93c9d7a218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\a2e12cd87d1ad5e95de8852de3f1199666b597f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d30904aef59dfb9dd6d67007692d9ba4aa32d588\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\d3baebedbc53a0a579bd58ba21900d762ffefd07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b91f72decb336a9ad3f7dd6b6cc975261c2b539\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6a9f2f4b28711c1f260125ab5e8646b6fe88c99d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\ce34ad78b24d02c86d77dda4ba20fa82bc1b37a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_b7cb96d295d81ada5a78fddd1a0d83d2f2c5357d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\5e4a29464df17c8a66be91a1df8bb52aaa54120e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfd52d625cb65034be649105b9b68c161bb88d77\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\7e2be76424d9be1137da2eeb5a19022f83791d71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_8586a7655bb1d703533ca168c07868f882d58114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\a2e12cd87d1ad5e95de8852de3f1199666b597f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_d30904aef59dfb9dd6d67007692d9ba4aa32d588.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\d3baebedbc53a0a579bd58ba21900d762ffefd07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b91f72decb336a9ad3f7dd6b6cc975261c2b539\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\70ddb113f9cd40b4c27f79eff0c1d39edd479c40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_0dfad7eca06931ca0ca5d33e6f808a972152c4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\c6fdbd5c3d99e7f4b8f89708bfe7b57710aa4b60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_b5546b9bc318b9a3af9a9370933e49fc9da10cbc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_55919274dce0fc482bc00b06c2e427ac3e6f7bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\43d64f13188b0f573b3294ac50d443ebd56f6cf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12686bed70038299638918ef02d8ee461dea0721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\b3e1558c626e21ee65dc8d32cc9982749fe9dc71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7256c1bee13498aab799e6c91e0364e41174d9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\941e0c06678665c43a3447eb1f128b130af4abaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_52a1180d8ad4118f451bb76cf8244ec3561b70bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\901668a503f70363fdec2b49a2b4c485ea4e36a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_03eb6cb24cece9820f1a8b407321ddda02b6e391.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6df922b1b227180c32620d073a946845caa89087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_55919274dce0fc482bc00b06c2e427ac3e6f7bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\3ba5ec0c323f5ed519710bcb38bab5b814ea16c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c03c448b9c74a75e5df8a655c05fdfad9656f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\2a5ed7f00b6230092aeb127d9667a010137f01a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c01a55cd2681bca477dab77660df618761be7199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\5413f090da2d8cd84aca1249c9ebec91e4f421a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75c53945a3e8b029678c57999425325ccc20960a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\56121dcb2a7784f50f49ebac52a3f718f15c09eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbb00bb27b0ec40e0fb6601b65625103928c25d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\d3d460656e97dfb4a6e057c4ae6089eced911f22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17ba07b2139b5b8862f754f1e12e345544d310a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\ce34ad78b24d02c86d77dda4ba20fa82bc1b37a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7cb96d295d81ada5a78fddd1a0d83d2f2c5357d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\67f97b6e3407000c78aa344eb91d3be5d3acd386\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef1bdf70c9d38fca1372478e6dd63e00bfeaadeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\d9f609996e052f7450c0a7fbbbb3e8fdcc95b5f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a8d7529c3d35c40756a1593255d2de6a58be615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\56121dcb2a7784f50f49ebac52a3f718f15c09eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbb00bb27b0ec40e0fb6601b65625103928c25d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\983a235a6541e57137c59607d56555042142e362\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef2dbf7e50b4f8a6e5c0fa7dbb04d09ec4cae396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\85b15bacd146bc678f60c7cb5996e77eea7219d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a26ba5cb1f782d3477063f02044fe3a8b23810d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\1451c12d7ee9d0f6f6d99606506dd2c6740b2541\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dee63e157790552a6b3e0cd742be2202a274ef90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\3ba5ec0c323f5ed519710bcb38bab5b814ea16c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c03c448b9c74a75e5df8a655c05fdfad9656f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\bdcad05ed546994e1b9a84d6245e6bc20efafc29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5767a65d71115fc315329fb5e962a06cd19e15f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\bd7835a31bb7c9a5a04c6467577e651fe785f703\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af66f9e044ce19bafee6cc27351a15da6989a32e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_b6d140e77802984ea4809c63478c0130e94631fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\4861e9b005bfb35bbf15163988473e50c9641475\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fb2b21b951f950f10bbd653da6c6e3dceee9d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.1.0_1983d7675413e26fc816da4ead8c5448727ae8b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\1d02f11b1f32b50c0819b0f913778a02c771abf0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e7ccc1d51d89540ea7ad426a1934204b674939b">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa5b3351532efee690496cf642d22a0aace37628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\983a235a6541e57137c59607d56555042142e362\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef2dbf7e50b4f8a6e5c0fa7dbb04d09ec4cae396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_4a6806cb0798cea207cb2e6c48ff3baffd297883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\f2f43c395803421a3f6b209c1284e5389fb4b61f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f64f9d2eb2efb238b46784018e61e579604e1467\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\a6a7c33686326c403d6dc3d4c58f26337059c8ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_efa3687a29e407d5028186c46e027e5180b390ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\e81f77f7c6d27ff284a0e97fb7375aba57eba780\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7cca89b82118b140b5c012b0e0def2f35c81592">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb6d252c2111e582325cf620482dac97d766bf49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\bdcad05ed546994e1b9a84d6245e6bc20efafc29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5767a65d71115fc315329fb5e962a06cd19e15f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\963a6a12ecf49b75d5f62023b10a587e3888f519\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_253f244f78b3df40c4049fc135117d85e992327f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\5e4a29464df17c8a66be91a1df8bb52aaa54120e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_dfd52d625cb65034be649105b9b68c161bb88d77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\67f97b6e3407000c78aa344eb91d3be5d3acd386\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef1bdf70c9d38fca1372478e6dd63e00bfeaadeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\6c2eaf6b95785be859433c17dad7fe9173bb4ddf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_d753720af5a2c93bc1dab27886fbeb0e2db9c6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_a6f656941ad5988afeab41af14740255c116620f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\43d64f13188b0f573b3294ac50d443ebd56f6cf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_12686bed70038299638918ef02d8ee461dea0721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\78913b2a8a0a4aa765a3b39936f57fec0fd65016\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_3f25bbcafb537ddfbba6d17e879df7737ef1af2b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\bec5dfbbaf86db872054cde39527db485dd543e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1415eada5402d8706970f331b930d8e1cb253bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\22df7b24d7fe8a9fe59ebd63c7f108a5e56c3771\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_572a2cb2bc2aa182ff8f167d90439afb9abf520c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\75e60315d02287f3a8ad3a9e951de602c1e71650\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_0e53e1f498ea3aa1ce8b416929bdc4403ef4c3ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="93988faac98db1ecd8bb3cbabe50ee898e99abf6">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_318ca58b46baafc83c26e83dacbb4327caf91d94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL-PC\.android\build-cache\93b5736ed70a456a7fc5bd7f8b3f0d28a1190ff2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a82db08abf96a112fa928e9b4975c903020c404\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\803ccadccdcd6b5fb9aebe1d4526ad70cbb1dbee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_7647ba28b0910c3d38e04d297317c53001925d39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bb91812d7279d21da4f1daab249b164aa76e598">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_318ca58b46baafc83c26e83dacbb4327caf91d94\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL-PC\.android\build-cache\e4f7b219737a02840403ee23e75897269680dd37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Android\Projects_Apps\ChatApp\app\build\intermediates\pre-dexed\debug\classes_b41c05f0dee73f5f10ec9a5b1ccb2bfea6e60047.jar" />
+    </item>
+
+</items>

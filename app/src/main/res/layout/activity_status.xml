@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.developinggeek.chatapp.StatusActivity">
+
+    <include
+        layout="@layout/app_bar_layout"
+        android:id="@+id/status_toolbar"
+        > </include>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/status_edt_status"
+        android:layout_below="@+id/status_toolbar"
+        android:layout_marginTop="28dp">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Your Status" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/status_btn_change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/status_edt_status"
+        android:layout_marginEnd="27dp"
+        android:layout_marginTop="25dp"
+        android:text="Save changes"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="#FFF"
+        />
+
+
+</RelativeLayout>
